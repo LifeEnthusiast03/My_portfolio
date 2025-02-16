@@ -1,10 +1,11 @@
-import { HeroSection } from "./components/index"
+import {Header} from "./components/index"
 function App() {
 
 
   return (
     <>
-      <h1>MY Portfolio</h1>
+      
+      <Header/>
       
    
     </>
